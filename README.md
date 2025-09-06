@@ -1,5 +1,6 @@
 
-# 💫 Hi 👋, I'm Himanshu Mandal# 💫 About Me:
+#  Hi 👋, I'm Himanshu Mandal 
+About Me:
 🎓 BTech CSE student <br><br>💻 Full Stack Developer <br><br>☁️ Exploring DS, AI/ML & NLP<br><br>🚀 Passionate about DSA, CP & Open Source<br><br>🌟 Always curious to learn & build impactful projects
 
 
